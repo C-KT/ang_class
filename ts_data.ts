@@ -70,3 +70,5 @@ let hyundai = new Car("sonata");
 let pStr:string = "hyundai 자동차중 제 차는 :";
 pStr += hyundai.carName;
 console.log(pStr);
+
+//test
