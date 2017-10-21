@@ -53,4 +53,5 @@ var hyundai = new Car("sonata");
 var pStr = "hyundai 자동차중 제 차는 :";
 pStr += hyundai.carName;
 console.log(pStr);
+//test 
 //# sourceMappingURL=ts_data.js.map
