@@ -4,4 +4,8 @@
         "module": "commonjs",
         "sourceMap": true
     }
+    ,"include":[
+        "src/*",
+        "ts01/*"
+    ]
 }
